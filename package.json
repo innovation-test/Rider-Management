@@ -1,5 +1,5 @@
 {
-      "name": "Web Dashboard Design",
+      "name": "rider-management-app",
       "version": "0.1.0",
       "private": true,
       "dependencies": {
@@ -55,7 +55,6 @@
             "vite": "6.3.5"
       },
       "scripts": {
-            "dev": "vite",
-            "build": "vite build"
+            "build": "npx vite build"
       }
 }
