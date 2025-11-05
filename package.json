@@ -55,6 +55,8 @@
             "vite": "6.3.5"
       },
       "scripts": {
-            "build": "npx vite build"
-      }
+    "dev": "vite",
+    "build": "vite build && echo 'Build complete'",
+    "preview": "vite preview"
+  }
 }
